@@ -1,0 +1,21 @@
+ul{
+     list-style-type:none;
+     background-color:white;
+     padding:20px;
+     }
+   ul li{
+         display:block;
+         padding:20px;
+        }
+   ul li a{
+         
+          color:black;
+          background-color:white;
+          text-decoration:none;
+          padding:5px;
+          transition:0.6s;
+          }
+ ul li a:hover{
+         color:white;
+         background-color:green;
+        }

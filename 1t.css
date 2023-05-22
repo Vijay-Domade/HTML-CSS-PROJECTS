@@ -1,0 +1,22 @@
+ ul{
+     list-style-type:none;
+     background-color:black;
+     padding:20px; 
+     margin-left:40px;
+      border-color:red;
+     }
+   ul li{
+         display:inline;
+         padding:10px;
+        }
+   ul li a{
+          color:white;
+          text-decoration:none;
+          padding:5px;
+          transition:0.6s;
+          }
+    ul li a:hover{
+         color:black;
+         background-color:white;
+        }
+     
